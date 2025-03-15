@@ -1,1 +1,1 @@
-# Programming-Algorithms-LabsLaboratories
+# Programming-Algorithms-Labs
